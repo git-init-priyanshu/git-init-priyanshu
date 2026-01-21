@@ -12,7 +12,7 @@
   <div style="flex: 1;">
     <h3>My current dev setup</h3>
     <ul>
-      <li>🐧 OS: Linux (Ubuntu 22.04.5 LTS)</li>
+      <li> OS: MacOS Sequoia</li>
       <li>💻 Code editor: Neovim</li>
       <li>🖥️ Terminal: Alacritty</li>
       <li>🚀 Tmux</li>
