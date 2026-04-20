@@ -13,7 +13,7 @@
     <h3>My current dev setup</h3>
     <ul>
       <li> OS: MacOS Tahoe</li>
-      <li>💻 Code editor: Neovim 💪 (Pffss, I don't use VsCode like you commoners)</li>
+      <li>💻 Code editor: I use Neovim BTW 🍷</li>
       <li>🖥️ Terminal: Alacritty</li>
       <li>🚀 Tmux</li>
     </ul>
