@@ -19,3 +19,5 @@
     </ul>
   </div>
 </div>
+
+<div>Currently looking for a new opportunity. Thanks.</div>
